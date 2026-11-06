@@ -9,6 +9,17 @@ I work where **clinical research, contracts and data** meet. By day I negotiate 
 📍 Thessaloniki, Greece
 📫 Reach me: `<ZoiLiami LinkedIn / zoliami@hotmail.com>`
 
+## 🛠️ Skills
+
+**Clinical operations & contracting:** vendor negotiation · clinical-trial agreements · guideline & compliance alignment
+**Data science:** Python · R · scikit-learn · XGBoost · explainable AI · conformal prediction
+**Bioinformatics:** RNA-seq · batch correction · immune deconvolution · pathway enrichment · biomarker benchmarking
+**Business:** market sizing · competitive analysis · financial modelling
+
+---
+
+*Open to conversations about clinical-trial operations, computational immuno-oncology, or the places where they overlap.*
+
 ---
 
 ## 🔬 Featured project: Uncertainty-aware immunotherapy response prediction
@@ -88,27 +99,5 @@ A full business plan for a SaaS start-up, "the **Skyscanner of ocean freight**":
 
 Both projects are about **turning messy, high-stakes information into a defensible decision**, whether that is a patient's treatment pathway, a clinical-trial vendor agreement, or a business case. My physics background taught me to ask what the data can and cannot support, and that habit shows in the uncertainty-aware approach above.
 
-## 🛠️ Skills
 
-**Clinical operations & contracting:** vendor negotiation · clinical-trial agreements · guideline & compliance alignment
-**Data science:** Python · R · scikit-learn · XGBoost · explainable AI · conformal prediction
-**Bioinformatics:** RNA-seq · batch correction · immune deconvolution · pathway enrichment · biomarker benchmarking
-**Business:** market sizing · competitive analysis · financial modelling
 
----
-
-*Open to conversations about clinical-trial operations, computational immuno-oncology, or the places where they overlap.*
-<!--
-**ZoiLiami/ZoiLiami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
